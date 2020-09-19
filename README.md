@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **Paulo-RJR/Paulo-RJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧑 Meu nome é Paulo Roberto J. Rodrigues, sou de São Paulo - Brasil. 
+ 
+ 👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 3º Semestre. 
+ 
+ 🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o meior número de técnologias possíveis, como mostro os meus repositórios.
