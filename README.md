@@ -19,3 +19,7 @@ Here are some ideas to get you started:
  👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 3º Semestre. 
  
  🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o meior número de técnologias possíveis, como mostro os meus repositórios.
+ 
+ Para maiores detalhes visite clique no link abaixo:
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20RJR-1c7e0f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/)](https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/) 
