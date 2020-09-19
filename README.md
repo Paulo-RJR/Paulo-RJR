@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
  👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 3º Semestre. 
  
- 🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o meior número de técnologias possíveis, como mostro os meus repositórios.
+ 🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o maior número de técnologias possíveis, como mostro nos meus repositórios.
  
  Para maiores detalhes visite clique no link abaixo:
  
