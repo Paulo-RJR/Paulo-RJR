@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🧑 Meu nome é Paulo Roberto J. Rodrigues, sou de São Paulo - Brasil. 
  
- 👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 3º Semestre. 
+ 👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 4º Semestre. 
  
  🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o maior número de técnologias possíveis, como mostro nos meus repositórios.
  
