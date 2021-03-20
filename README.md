@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 🧑 Meu nome é Paulo Roberto J. Rodrigues, sou de São Paulo - Brasil. 
  
- 👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 4º Semestre. 
+ 👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 4º Semestre, porém estou desempregado. 
+ 
+ 👨🏽‍💻 Atualmente estou aprendendo Java 8 com a IDE Netbeans, Banco de Dados com SQL Server 2019 e Android Studio 4.1.3 com Java 10.  
  
  🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o maior número de técnologias possíveis, como mostro nos meus repositórios.
  
- Para maiores detalhes visite clique no link abaixo:
+ Para maiores detalhes e contato visite clique no link abaixo:
  
  [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20RJR-1c7e0f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/)](https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/) 
