@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  👨🏽‍💻 Atualmente estou aprendendo Java 8 com a IDE Netbeans, Banco de Dados com SQL Server 2019 e Android Studio 4.1.3 com Java 10.  
  
- 🧑🏽‍💻 Gosto muito de programação e procuro aprender um pouco sobre o maior número de técnologias possíveis, como mostro nos meus repositórios.
+ 🧑🏽‍💻 Gosto muito de programação e como atualmente estou estudando Java estou buscando aprender todo o que poder sobre esta IDE (e também codifico na IDE IntelliJ IDEA), como vou demonstrar em meus repositórios.
  
  Para maiores detalhes e contato visite clique no link abaixo:
  
