@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧑 Meu nome é Paulo Roberto J. Rodrigues, sou de São Paulo - Brasil. 
+🧑 Eu me chamo Paulo Roberto Junqueira Rodrigues, sou de São Paulo - Brasil. 
  
- 👨🏽‍💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas cursando o 4º Semestre, porém estou desempregado. 
+ 👨🏽‍💻 Atualmente estudo Análise e Desenvolvimento de Sistemas, 5º Semestre e estou desempregado em busca de uma colocação. 
  
- 👨🏽‍💻 Atualmente estou aprendendo Java 8 com a IDE Netbeans, Banco de Dados com SQL Server 2019 e Android Studio 4.1.3 com Java 10.  
+ 👨🏽‍💻 Aprendizagem em Linguagem de Java 8 através da IDE Netbeans, Microsoft SQL Server 2019 para modelagem e criação Banco de Dados e Programação Mobile através Android Studio 4.1.3 com Java 10.  
  
- 🧑🏽‍💻 Gosto muito de programação e como atualmente estou estudando Java estou buscando aprender todo o que poder sobre esta IDE (e também codifico na IDE IntelliJ IDEA), como vou demonstrar em meus repositórios.
+ 🧑🏽‍💻 Gosto muito de programação e como atualmente estudo Java busco aprender todo sobre esta Linguagem de Programação (também codifico na IDE Eclipse e IDE IntelliJ IDEA), assim apliando minhas opções em ambientes para o desenvolvimento dos meus códigos em Java.
  
- Para maiores detalhes e contato visite clique no link abaixo:
+ Enfim para maiores detalhes e contato visite clique no link abaixo:
  
  [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20RJR-1c7e0f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/)](https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/) 
