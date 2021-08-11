@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-📫 Moro em Diadema - São Paulo - Brasil.<p>
+📫 Moro em São Paulo - Brasil.<p>
 
 👔🏭 Atualmente esteou em busca de uma oportunidade de trabalho/estágio, na área de programação com Java, sendo como Back-End ou Front-End.<p>
  
