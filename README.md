@@ -41,15 +41,15 @@ Here are some ideas to get you started:
 
 👔🏭 Atualmente esteou em busca de uma oportunidade de trabalho/estágio, na área de programação com Java, sendo como Back-End ou Front-End.<p>
  
-🎓📚 Atualmente estudo Análise e Desenvolvimento de Sistemas, 5º Semestre paríodo noturno. <br>
+🎓📚 Atualmente estudo Análise e Desenvolvimento de Sistemas, 5º Semestre período noturno. <br>
  
- 🧑🏽💻 Aprendizagem em Linguagem de Java 8 através das IDEs Netbeans e Intellij, Microsoft SQL Server 2019 para modelagem e criação Banco de Dados e Programação Mobile através Android Studio 4.1.3 com Java 10. <br>
+ 🧑🏽💻 Linguagem de Programação Java através da IDE Netbeans e IDE Intellij, Microsoft SQL Server 2019 para modelagem e criação Banco de Dados e Programação Mobile através Android Studio 4.1.3 com Java 10. <br>
 
-🧑🏽💻 Gosto muito de programação e como atualmente estudo Java busco aprender todo sobre esta Linguagem de Programação (também codifico na IDE Eclipse e IDE IntelliJ IDEA), assim apliando minhas opções em ambientes para o desenvolvimento dos meus códigos em Java.
+🧑🏽💻 Gosto muito de programação e atualmente estudo Java busco aprender o máximo sobre esta Linguagem de Programação e assim ampliando meus para o desenvolvimento dos meus códigos com esta Linguagem de Programação.
 
 <hr> 
 
- ### Enfim para maiores detalhes e contato visite clique no link abaixo:
+ ### Enfim para maiores detalhes e contato clique no link abaixo:
  
  
  <br><a href="https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
