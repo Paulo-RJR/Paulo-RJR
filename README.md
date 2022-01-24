@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Paulo-Netbeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
   <img align="center" alt="Paulo-Intellij" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
-  <img align="center" alt="Paulo-Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
+  <!--<img align="center" alt="Paulo-Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
   <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">-->
   <img align="center" alt="Paulo-MicrosoftSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
   
@@ -39,13 +39,17 @@ Here are some ideas to get you started:
 
 📫 Moro em São Paulo - Brasil.<p>
 
-👔🏭 Atualmente esteou em busca de uma oportunidade de trabalho/estágio, na área de programação com Java, sendo como Back-End ou Front-End.<p>
+👔🏭 Atualmente estou em busca de uma oportunidade de trabalho (CLT, Temporário, Trainer, etc), na área de programação com Java, sendo esta como Desenvolvedor, Desenvolvedor Back-End, Desenvolvedor Front-End, Desenvolvedor Júnior, Programador, etc.<p>
  
-🎓📚 Atualmente estudo Análise e Desenvolvimento de Sistemas, 5º Semestre período noturno. <br>
+🎓📚 Recem formado (Dezembro de 2021) em Análise e Desenvolvimento de Sistemas pela FMU - Faculdades Metropolitanas Unidas. <br>
  
- 🧑🏽💻 Linguagem de Programação Java através da IDE Netbeans e IDE Intellij, Microsoft SQL Server 2019 para modelagem e criação Banco de Dados e Programação Mobile através Android Studio 4.1.3 com Java 10. <br>
+ 🧑🏽💻 Conhecimentos academicos e pessoais adquiridos: <p>
+ 1. Linguagem de Programação: Java com IDE Netbeans e IDE Intellij;<br> 
+ 2. Banco de Dados: Microsoft SQL Server 2019;<br> 
+ 3. Programação Mobile através Android Studio 4.1.3 com Java 10. <br>
 
-🧑🏽💻 Gosto muito de programação e atualmente estudo Java busco aprender o máximo sobre esta Linguagem de Programação e assim ampliando meus para o desenvolvimento dos meus códigos com esta Linguagem de Programação.
+🧑🏽💻 Gosto muito de programar e neste repositório irei demonstrar alguns códigos desenvolvidos ao longo da minha formação, sendo estes apresentados na faculdade ou
+ em outras fontes de estudo, na forma de questões ou problemas a serem resolvidos ou melhoramentos em exemplos mostrados, assim demonstrando na prática meu nível de conhecimento em programação, reciocinio lógico e resolução do problemas propóstos.
 
 <hr> 
 
