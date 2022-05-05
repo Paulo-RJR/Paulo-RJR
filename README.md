@@ -25,17 +25,18 @@ Here are some ideas to get you started:
 
 📫 Moro em São Paulo - Brasil.<p>
 
-👔🏭 Atualmente estou em busca de uma oportunidade de trabalho (CLT, Temporário, Trainer, etc), na área de programação com Java, sendo esta como Desenvolvedor, Desenvolvedor Back-End, Desenvolvedor Front-End, Desenvolvedor Júnior, Programador, etc.<p>
+👔💻 Atualmente estou desempregado em busca de oportunidades de trabalho (CLT, Temporário, Trainer, etc), na área de TI, atuando como Desenvolvedor Back-End ou Front-End, Desenvolvedor Júnior, Programador ou Programador Júnior, etc.<p>
  
-🎓📚 Recem formado (Dezembro de 2021) em Análise e Desenvolvimento de Sistemas pela FMU - Faculdades Metropolitanas Unidas. <br>
+🎓📚 Recem formado (Dezembro de 2021) em Análise e Desenvolvimento de Sistemas. <br>
  
  🧑🏽💻 Conhecimentos academicos e pessoais adquiridos: <p>
- 1. Linguagem de Programação: Java com IDE Netbeans e IDE Intellij;<br> 
+ 
+ 1. Linguagem de Programação Java: IDE Netbeans e IDE Intellij;<br> 
  2. Banco de Dados: Microsoft SQL Server 2019;<br> 
- 3. Programação Mobile através Android Studio 4.1.3 com Java 10. <br>
+ 3. Programação Mobile: Android Studio 4.1.3 com Java 10, 14 ou 17. <br>
 
-🧑🏽💻 Gosto muito de programar e neste repositório irei demonstrar alguns códigos desenvolvidos ao longo da minha formação, sendo estes apresentados na faculdade ou
- em outras fontes de estudo, na forma de questões ou problemas a serem resolvidos ou melhoramentos em exemplos mostrados, assim demonstrando na prática meu nível de conhecimento em programação, reciocinio lógico e resolução do problemas propóstos.
+🧑🏽💻 Sou um apaixonado por tecnologia e através de vários repositórios nesta plataforma de versionamento vou demonstrar códigos desenvolvidos ao longo da minha formação, sendo estes apresentados na faculdade ou por meio de cursos em plataformas digitais, assim demonstrando na prática nível de conhecimento em programação com uso de reciocinio lógico e códigos de algoritmos para resolver os problemas propóstos.
+ 
 </div>
 
 <hr>
