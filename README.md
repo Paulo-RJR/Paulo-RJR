@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
  <div>
+ 
   <a href="https://github.com/Paulo-RJR/Paulo-RJR.git"></a>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Paulo-RJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-RJR&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -40,7 +41,9 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
 <div style="display: inline_block" align="center">
+ 
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Paulo-Netbeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
   <img align="center" alt="Paulo-Intellij" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
@@ -48,11 +51,15 @@ Here are some ideas to get you started:
   <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">-->
   <img align="center" alt="Paulo-MicrosoftSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
+  <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">   
+  <img align="center" alt="Paulo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Paulo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Paulo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Paulo-Devicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"><p>
-  
  
 </div>
+
 <hr>
 
  ### Enfim para maiores detalhes e contato clique no link abaixo:
