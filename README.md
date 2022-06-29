@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📫 Moro em São Paulo - Brasil.<p>
 
-👔💻 Atualmente estou desempregado em busca de oportunidades de trabalho (CLT, Temporário, Trainer, etc), na área de TI, atuando como Desenvolvedor Back-End ou Front-End, Desenvolvedor Júnior, Programador ou Programador Júnior, etc.<p>
+👔💻 Atualmente estou desempregado em busca de oportunidades de trabalho (CLT, Temporário, Treinner, etc), na área de TI, atuando como Desenvolvedor Back-End ou Front-End, Desenvolvedor Júnior, Programador ou Programador Júnior, etc.<p>
  
 🎓📚 Recem formado (Dezembro de 2021) em Análise e Desenvolvimento de Sistemas. <br>
  
