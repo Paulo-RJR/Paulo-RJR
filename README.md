@@ -58,15 +58,15 @@ Here are some ideas to get you started:
   <img align="center" alt="Paulo-Devicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"><p>
  
 </div>
-
+<!--
 <hr>
-
+<!--
  ### Enfim para maiores detalhes e contato clique no link abaixo:
  
  
- <br><a href="https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <!-- <br><a href="https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <!--[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20RJR-1c7e0f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/)](https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/) -->
+ <!-- [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20RJR-1c7e0f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/)](https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/) -->
  
  <hr>  
   
