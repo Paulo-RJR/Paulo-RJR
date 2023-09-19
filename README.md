@@ -1,74 +1,42 @@
-## Olá! 👋 
-### Sejam bem vindos(as) ao meu perfil do GitHub. 😺
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=12c1ca&height=120&section=header"/>
 
-<!--
-**Paulo-RJR/Paulo-RJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=12c1ca&size=35&center=true&vCenter=true&width=1000&lines=OI,+Meu+nome+é+Paulo+Roberto+Junqueira+Rodrigues;Estou+com+44+anos+de+idade;Moro+no+Brasil;Sou+Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+  [![Grafifo de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=Paulo-RJR&bg_color=0d1117&color=12c1ca&line=12c1ca&point=0a6c71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-RJR&show_icons=true&count_private=true&hide_border=true&title_color=12c1ca&icon_color=12c1ca&text_color=c9d1d9&bg_color=0d1117" alt="Paulo-RJR github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-RJR&layout=compact&hide_border=true&title_color=12c1ca&text_color=12c1ca&bg_color=0d1117" />
+</div>  
 
- <div>
- <!--
-  <a href="https://github.com/Paulo-RJR/Paulo-RJR.git"></a>  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Paulo-RJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-RJR&layout=compact&langs_count=7&theme=tokyonight"/>
-  <hr>
--->
-📫 Moro em São Paulo - Brasil.<p>
+<br>
+<div align="center"> 
+<a href = "mailto:bleach.pr11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-programador-java/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-👔💻 Atualmente estou desempregado em busca de oportunidades de trabalho (CLT, Temporário, Treinner, etc), na área de TI, atuando como Desenvolvedor Back-End ou Front-End, Desenvolvedor Júnior, Programador ou Programador Júnior, etc.<p>
- 
-🎓📚 Recem formado (Dezembro de 2021) em Análise e Desenvolvimento de Sistemas. <br>
- 
- 🧑🏽💻 Conhecimentos academicos e pessoais adquiridos: <p>
- 
- 1. Linguagem de Programação Java: IDE Netbeans e IDE Intellij;<br> 
- 2. Banco de Dados: Microsoft SQL Server 2019;<br> 
- 3. Programação Mobile: Android Studio 4.1.3 com Java 10, 14 ou 17. <br>
+ ## Minhas Hardwares Skills:
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FireBrick)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=blue)&nbsp; 
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)&nbsp; 
 
-🧑🏽💻 Sou um apaixonado por tecnologia e através de vários repositórios nesta plataforma de versionamento vou demonstrar códigos desenvolvidos ao longo da minha formação, sendo estes apresentados na faculdade ou por meio de cursos em plataformas digitais, assim demonstrando na prática nível de conhecimento em programação com uso de reciocinio lógico e códigos de algoritmos para resolver os problemas propóstos.
- 
+
+## Estudando até o momento:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring&logoColor=LimeGreen)&nbsp;
+
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-RJR}/count.svg" /></p> 
+<br>
 </div>
 
-<hr>
 
-<div style="display: inline_block" align="center">
- 
-  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Paulo-Netbeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
-  <img align="center" alt="Paulo-Intellij" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
-  <!--<img align="center" alt="Paulo-Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
-  <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Paulo-String" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">-->
-  <img align="center" alt="Paulo-MicrosoftSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">   
-  <img align="center" alt="Paulo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Paulo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Paulo-Devicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"><p>
- 
-</div>
-<!--
-<hr>
-<!--
- ### Enfim para maiores detalhes e contato clique no link abaixo:
- 
- 
- <!-- <br><a href="https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <!-- [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20RJR-1c7e0f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/)](https://www.linkedin.com/in/paulo-roberto-junqueira-rodrigues-6407b91b3/) -->
- 
- <hr>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=12c1ca&height=120&section=footer"/>
+
   
-  ![Animação Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
