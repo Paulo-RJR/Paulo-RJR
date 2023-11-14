@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=12c1ca&height=120&section=header"/>
 
-  [![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=12c1ca&size=35&center=true&vCenter=true&width=1000&lines=OI,+Meu+nome+é+Paulo+Roberto+Junqueira+Rodrigues;Estou+com+44+anos+de+idade;Moro+no+Brasil;Sou+Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+  [![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=12c1ca&size=35&center=true&vCenter=true&width=1000&lines=OI,+Meu+nome+é+Paulo+Roberto+Junqueira+Rodrigues;Estou+com+45+anos+de+idade;Moro+no+Brasil;Sou+Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
   [![Grafifo de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=Paulo-RJR&bg_color=0d1117&color=12c1ca&line=12c1ca&point=0a6c71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
